@@ -3,7 +3,7 @@ class ReverseString
 {
     public static void main(String args[])
     {
-        String s=args[0];
+        String s="NAMASTE DUNIYA";
         String rev="";
         for(int j=s.length(); j>0 ; --j)
         {
